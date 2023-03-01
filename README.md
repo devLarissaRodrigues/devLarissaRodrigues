@@ -55,7 +55,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rubemalecks}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devLarissaRodrigues}/count.svg" /></p> 
 <br></div>
   
 
