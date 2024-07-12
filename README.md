@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29293d&height=120&section=header&text=Larissa+Rodrigues&fontSize=31&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- TRANSITION MESSAGE -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;+Hi,+my+nickname+is+Lara+and+I'm+31+years+old.;I+am+from+Brazil.;I+am+studying+Computer+Science+at+UFCG.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;+Hi,+my+nickname+is+Lara+and+I'm+31+years+old.;I+am+from+Brazil.;I+am+studying+Computer+Science+at+UFCG.;)](https://git.io/typing-svg)
 
 <div align="center">
   I am a frontend intern currently working at UFCG.
@@ -21,14 +21,14 @@
   <a href="https://devlarissarodrigues.github.io/MeuPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/larissa-rodrigues-0a28a2277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/your_number" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.instagram.com/larissamoniqueig.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  <a href="https://www.instagram.com/larissamoniqueig.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-A45EBE?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <!-- TOOLS - ICONS -->
 ### Studying in this moment:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
