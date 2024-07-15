@@ -16,9 +16,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLarissaRodrigues&layout=compact&langs_count=7&theme=nord"/>
 </div></br>
 
+<!-- SNAKE CODE -->
 ![snake gif](https://github.com/devLarissaRodrigues/devLarissaRodrigues/blob/output/github-contribution-grid-snake.gif)
-
-![snake gif](https://github.com/devLarissaRodrigues/devLarissaRodrigues/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- SOCIAL MEDIA -->
 <div align="center"><h3>CONTACT ME</h3> 
