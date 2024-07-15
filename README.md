@@ -18,6 +18,8 @@
 
 ![snake gif](https://github.com/devLarissaRodrigues/devLarissaRodrigues/blob/output/github-contribution-grid-snake.gif)
 
+![snake gif](https://github.com/devLarissaRodrigues/devLarissaRodrigues/blob/output/github-contribution-grid-snake.svg)
+
 <!-- SOCIAL MEDIA -->
 <div align="center"><h3>CONTACT ME</h3> 
   <a href="https://devlarissarodrigues.github.io/MeuPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white"/></a>
