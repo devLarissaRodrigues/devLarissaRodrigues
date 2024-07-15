@@ -4,6 +4,8 @@
 <!-- TRANSITION MESSAGE -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;+Hi,+my+nickname+is+Lara+and+I'm+31+years+old.;I+am+from+Brazil.;I+am+studying+Computer+Science+at+UFCG.;)](https://git.io/typing-svg)
 
+![snake gif](https://github.com/devLarissaRodrigues/devLarissaRodrigues/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
   I am a frontend intern currently working at UFCG.
   I am also continuously studying JavaScript.
