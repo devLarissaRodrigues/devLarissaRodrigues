@@ -18,7 +18,7 @@
 
 ![snake gif](https://github.com/devLarissaRodrigues/devLarissaRodrigues/blob/output/github-contribution-grid-snake.gif)
 
-![snake gif](https://github.com/devLarissaRodrigues/devLarissaRodrigues/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/devLarissaRodrigues/devLarissaRodrigues/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- SOCIAL MEDIA -->
 <div align="center"><h3>CONTACT ME</h3> 
