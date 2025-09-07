@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29293d&height=120&section=header&text=Larissa+Rodrigues&fontSize=31&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- TRANSITION MESSAGE -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;+Hi,+my+nickname+is+Lara+and+I'm+31+years+old.;I+am+from+Brazil.;I+am+studying+Computer+Science+at+UFCG.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;+Hi,+my+nickname+is+Lara;I+am+from+Brazil.;I+am+studying+Computer+Science+at+UFCG.;)](https://git.io/typing-svg)
 
 <div align="center">
   I am a frontend intern currently working at UFCG.
